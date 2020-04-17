@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Comments</title>
+    <link rel="stylesheet" href="../css/main.css">
+    <script src="../js/react.min.js"></script>
+    <script src="../js/react-dom.min.js"></script>
+    <script src="../js/browser.min.js"></script>
+
+</head>
+<body>
+
+<div id="example"></div>
+
+<script type="text/babel">
+
+    class Comment extends React.Component {
+        edit(){
+            alert('Editing...');
+        }
+
+        remove(){
+            alert('Deleting...');
+        }
+
+        render(){
+            return(
+                <div className="commentContainer">
+                    <div className="commentText">{this.props.children}</div>
+                    <button onClick={this.edit} className="button-primary">Edit</button>
+                    <button onClick={this.remove} className="button-danger">Delete</button>
+                </div>
+            );
+        }
+    }
+
+
+ReactDOM.render(
+    <div className="board">
+        <Comment>What the heck!</Comment>
+        <Comment>Only the paranoid survive!</Comment>
+        <Comment>Utakuja kushangaa!</Comment>
+    </div>,
+    document.getElementById('example'));
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8583f283-db36-46a4-a056-56d0a4a3d617" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="Yellow" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1afBCA3i8gLQsV4TVlQXPGtomSV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8583f283-db36-46a4-a056-56d0a4a3d617" name="Default Changelist" comment="" />
+      <created>1587116637939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587116637939</updated>
+      <workItem from="1587116641898" duration="2675000" />
+      <workItem from="1587119365981" duration="1177000" />
+      <workItem from="1587120913042" duration="3351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="180" width="524" height="447" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1587119013749">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="180" width="524" height="447" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.27.1366.741@0.27.1366.741" timestamp="1587119013749" />
+    <state x="281" y="142" width="424" height="497" key="FileChooserDialogImpl" timestamp="1587120616446">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="281" y="142" width="424" height="497" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1587120616446" />
+    <state width="840" height="174" key="GridCell.Tab.0.bottom" timestamp="1587121567019">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="840" height="174" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1587121567019" />
+    <state width="840" height="174" key="GridCell.Tab.0.center" timestamp="1587121567018">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="840" height="174" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1587121567018" />
+    <state width="840" height="174" key="GridCell.Tab.0.left" timestamp="1587121567018">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="840" height="174" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1587121567018" />
+    <state width="840" height="174" key="GridCell.Tab.0.right" timestamp="1587121567019">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="840" height="174" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1587121567019" />
+    <state x="0" y="27" width="900" height="741" key="SettingsEditor" timestamp="1587119236062">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="900" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1587119236062" />
+  </component>
+</project>
